@@ -1,0 +1,1 @@
+Crie uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens
