@@ -1,0 +1,1 @@
+Crie uma pasta chamada 'inputs' e crie um documento de texto com algumas sentenças
